@@ -1,4 +1,4 @@
-
+package main.java;
 public class TennisGame1 implements TennisGame {
     
     private int m_score1 = 0;

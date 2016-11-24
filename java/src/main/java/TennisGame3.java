@@ -1,4 +1,4 @@
-
+package main.java;
 public class TennisGame3 implements TennisGame {
     
     private int p2;
