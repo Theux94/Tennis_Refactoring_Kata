@@ -1,0 +1,84 @@
+plugins {
+	id "java"
+	id "findbugs"
+	id "pmd"
+	id "jacoco"
+	id "de.aaschmid.cpd" version "1.0"
+//	id "net.saliman.cobertura"
+//  id "com.bmuschko.clover" version "2.0.1"
+}
+
+//apply plugin: "net.saliman.cobertura"
+
+defaultTasks 'clean', 'build', 'jacocoTestReport'
+task incrementalbuild(dependsOn: [build, jacocoTestReport])
+
+
+sourceSets {
+   main {
+      java {
+         srcDir 'src/main'
+      }
+   }
+
+   test {
+      java {
+         srcDir 'src/test'
+      }
+   }
+}
+
+repositories {
+   mavenCentral()
+   //jcenter()
+}
+
+dependencies {
+	testCompile 'junit:junit:4.+'
+}
+
+
+
+tasks.matching {it instanceof Test}.all {
+    testLogging.events = ["failed", "passed", "skipped"]
+}
+
+jacocoTestReport {
+    reports {
+        xml.enabled = true
+        html.enabled = true
+    }
+}
+
+tasks.withType(FindBugs) {
+    reports {
+        xml.enabled false
+		html.enabled true
+    }
+}
+
+tasks.withType(Pmd) {
+    reports {
+        xml.enabled false
+        html.enabled true
+    }
+}
+
+cpdCheck {
+    reports {
+		text.enabled = true
+        xml.enabled = false
+    }
+}
+
+
+test {
+    testLogging {
+        // set options for log level LIFECYCLE
+        // events "started","passed","skipped","failed"
+        // make the standard output streams visible at console when running tests
+        showStandardStreams = true
+    }
+     // configure java.util.logging for the test JVM(s)
+    systemProperty 'java.util.logging.config.file', 'logging.config'
+  }
