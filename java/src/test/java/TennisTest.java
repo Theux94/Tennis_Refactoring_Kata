@@ -82,13 +82,13 @@ public class TennisTest {
 
     @Test
     public void checkAllScoresTennisGame1() {
-        TennisGame1 game = new TennisGame1(); //Before with Player param. Not used, so not necessary
+        TennisGame1 game = new TennisGame1(); //Before const. was with Player param. Not used, so not necessary
         checkAllScores(game);
     }
 
     @Test
     public void checkAllScoresTennisGame2() {
-        TennisGame2 game = new TennisGame2();
+        TennisGame2 game = new TennisGame2(); //Before const. was with Player param. Not used, so not necessary
         checkAllScores(game);
     }
 
