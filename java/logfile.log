@@ -1,0 +1,99 @@
+2016-11-26 13:19:01.580 INFORMATION [main.java.MyLogger] main.java.TennisGame1 getScore Value of getScore() in TennisGame1: Love-All 
+2016-11-26 13:19:01.599 INFORMATION [main.java.MyLogger] main.java.TennisGame2 getScore Value of getScore() in TennisGame2: Love-All 
+2016-11-26 13:19:01.604 INFORMATION [main.java.MyLogger] main.java.TennisGame3 getScore Value of getScore(): Love 
+2016-11-26 13:19:01.609 INFORMATION [main.java.MyLogger] main.java.TennisGame1 getScore Value of getScore() in TennisGame1: Fifteen-All 
+2016-11-26 13:19:01.612 INFORMATION [main.java.MyLogger] main.java.TennisGame2 getScore Value of getScore() in TennisGame2: Fifteen-All 
+2016-11-26 13:19:01.616 INFORMATION [main.java.MyLogger] main.java.TennisGame3 getScore Value of getScore(): Fifteen 
+2016-11-26 13:19:01.620 INFORMATION [main.java.MyLogger] main.java.TennisGame1 getScore Value of getScore() in TennisGame1: Thirty-All 
+2016-11-26 13:19:01.628 INFORMATION [main.java.MyLogger] main.java.TennisGame2 getScore Value of getScore() in TennisGame2: Thirty-All 
+2016-11-26 13:19:01.631 INFORMATION [main.java.MyLogger] main.java.TennisGame3 getScore Value of getScore(): Thirty 
+2016-11-26 13:19:01.635 INFORMATION [main.java.MyLogger] main.java.TennisGame1 getScore Value of getScore() in TennisGame1: Deuce 
+2016-11-26 13:19:01.639 INFORMATION [main.java.MyLogger] main.java.TennisGame2 getScore Value of getScore() in TennisGame2: Deuce 
+2016-11-26 13:19:01.642 INFORMATION [main.java.MyLogger] main.java.TennisGame3 getScore Value of getScore(): Deuce 
+2016-11-26 13:19:01.644 INFORMATION [main.java.MyLogger] main.java.TennisGame1 getScore Value of getScore() in TennisGame1: Deuce 
+2016-11-26 13:19:01.645 INFORMATION [main.java.MyLogger] main.java.TennisGame2 getScore Value of getScore() in TennisGame2: Deuce 
+2016-11-26 13:19:01.648 INFORMATION [main.java.MyLogger] main.java.TennisGame3 getScore Value of getScore(): Deuce 
+2016-11-26 13:19:01.653 INFORMATION [main.java.MyLogger] main.java.TennisGame1 getScore Value of getScore() in TennisGame1: Fifteen-Love 
+2016-11-26 13:19:01.656 INFORMATION [main.java.MyLogger] main.java.TennisGame2 getScore Value of getScore() in TennisGame2: Fifteen-Love 
+2016-11-26 13:19:01.661 INFORMATION [main.java.MyLogger] main.java.TennisGame3 getScore Value of getScore(): Fifteen 
+2016-11-26 13:19:01.663 INFORMATION [main.java.MyLogger] main.java.TennisGame1 getScore Value of getScore() in TennisGame1: Love-Fifteen 
+2016-11-26 13:19:01.666 INFORMATION [main.java.MyLogger] main.java.TennisGame2 getScore Value of getScore() in TennisGame2: Love-Fifteen 
+2016-11-26 13:19:01.668 INFORMATION [main.java.MyLogger] main.java.TennisGame3 getScore Value of getScore(): Love 
+2016-11-26 13:19:01.670 INFORMATION [main.java.MyLogger] main.java.TennisGame1 getScore Value of getScore() in TennisGame1: Thirty-Love 
+2016-11-26 13:19:01.672 INFORMATION [main.java.MyLogger] main.java.TennisGame2 getScore Value of getScore() in TennisGame2: Thirty-Love 
+2016-11-26 13:19:01.673 INFORMATION [main.java.MyLogger] main.java.TennisGame3 getScore Value of getScore(): Thirty 
+2016-11-26 13:19:01.675 INFORMATION [main.java.MyLogger] main.java.TennisGame1 getScore Value of getScore() in TennisGame1: Love-Thirty 
+2016-11-26 13:19:01.676 INFORMATION [main.java.MyLogger] main.java.TennisGame2 getScore Value of getScore() in TennisGame2: Love-Thirty 
+2016-11-26 13:19:01.677 INFORMATION [main.java.MyLogger] main.java.TennisGame3 getScore Value of getScore(): Love 
+2016-11-26 13:19:01.679 INFORMATION [main.java.MyLogger] main.java.TennisGame1 getScore Value of getScore() in TennisGame1: Forty-Love 
+2016-11-26 13:19:01.681 INFORMATION [main.java.MyLogger] main.java.TennisGame2 getScore Value of getScore() in TennisGame2: Forty-Love 
+2016-11-26 13:19:01.684 INFORMATION [main.java.MyLogger] main.java.TennisGame3 getScore Value of getScore(): Forty 
+2016-11-26 13:19:01.686 INFORMATION [main.java.MyLogger] main.java.TennisGame1 getScore Value of getScore() in TennisGame1: Love-Forty 
+2016-11-26 13:19:01.688 INFORMATION [main.java.MyLogger] main.java.TennisGame2 getScore Value of getScore() in TennisGame2: Love-Forty 
+2016-11-26 13:19:01.689 INFORMATION [main.java.MyLogger] main.java.TennisGame3 getScore Value of getScore(): Love 
+2016-11-26 13:19:01.690 INFORMATION [main.java.MyLogger] main.java.TennisGame1 getScore Value of getScore() in TennisGame1: Win for player1 
+2016-11-26 13:19:01.691 INFORMATION [main.java.MyLogger] main.java.TennisGame2 getScore Value of getScore() in TennisGame2: Win for player1 
+2016-11-26 13:19:01.692 INFORMATION [main.java.MyLogger] main.java.TennisGame3 getScore Value of getScore(): player1 
+2016-11-26 13:19:01.693 INFORMATION [main.java.MyLogger] main.java.TennisGame1 getScore Value of getScore() in TennisGame1: Win for player2 
+2016-11-26 13:19:01.695 INFORMATION [main.java.MyLogger] main.java.TennisGame2 getScore Value of getScore() in TennisGame2: Win for player2 
+2016-11-26 13:19:01.696 INFORMATION [main.java.MyLogger] main.java.TennisGame3 getScore Value of getScore(): player2 
+2016-11-26 13:19:01.696 INFORMATION [main.java.MyLogger] main.java.TennisGame1 getScore Value of getScore() in TennisGame1: Thirty-Fifteen 
+2016-11-26 13:19:01.697 INFORMATION [main.java.MyLogger] main.java.TennisGame2 getScore Value of getScore() in TennisGame2: Thirty-Fifteen 
+2016-11-26 13:19:01.698 INFORMATION [main.java.MyLogger] main.java.TennisGame3 getScore Value of getScore(): Thirty 
+2016-11-26 13:19:01.699 INFORMATION [main.java.MyLogger] main.java.TennisGame1 getScore Value of getScore() in TennisGame1: Fifteen-Thirty 
+2016-11-26 13:19:01.700 INFORMATION [main.java.MyLogger] main.java.TennisGame2 getScore Value of getScore() in TennisGame2: Fifteen-Thirty 
+2016-11-26 13:19:01.701 INFORMATION [main.java.MyLogger] main.java.TennisGame3 getScore Value of getScore(): Fifteen 
+2016-11-26 13:19:01.702 INFORMATION [main.java.MyLogger] main.java.TennisGame1 getScore Value of getScore() in TennisGame1: Forty-Fifteen 
+2016-11-26 13:19:01.703 INFORMATION [main.java.MyLogger] main.java.TennisGame2 getScore Value of getScore() in TennisGame2: Forty-Fifteen 
+2016-11-26 13:19:01.705 INFORMATION [main.java.MyLogger] main.java.TennisGame3 getScore Value of getScore(): Forty 
+2016-11-26 13:19:01.705 INFORMATION [main.java.MyLogger] main.java.TennisGame1 getScore Value of getScore() in TennisGame1: Fifteen-Forty 
+2016-11-26 13:19:01.706 INFORMATION [main.java.MyLogger] main.java.TennisGame2 getScore Value of getScore() in TennisGame2: Fifteen-Forty 
+2016-11-26 13:19:01.707 INFORMATION [main.java.MyLogger] main.java.TennisGame3 getScore Value of getScore(): Fifteen 
+2016-11-26 13:19:01.708 INFORMATION [main.java.MyLogger] main.java.TennisGame1 getScore Value of getScore() in TennisGame1: Win for player1 
+2016-11-26 13:19:01.709 INFORMATION [main.java.MyLogger] main.java.TennisGame2 getScore Value of getScore() in TennisGame2: Win for player1 
+2016-11-26 13:19:01.710 INFORMATION [main.java.MyLogger] main.java.TennisGame3 getScore Value of getScore(): player1 
+2016-11-26 13:19:01.712 INFORMATION [main.java.MyLogger] main.java.TennisGame1 getScore Value of getScore() in TennisGame1: Win for player2 
+2016-11-26 13:19:01.713 INFORMATION [main.java.MyLogger] main.java.TennisGame2 getScore Value of getScore() in TennisGame2: Win for player2 
+2016-11-26 13:19:01.714 INFORMATION [main.java.MyLogger] main.java.TennisGame3 getScore Value of getScore(): player2 
+2016-11-26 13:19:01.714 INFORMATION [main.java.MyLogger] main.java.TennisGame1 getScore Value of getScore() in TennisGame1: Forty-Thirty 
+2016-11-26 13:19:01.715 INFORMATION [main.java.MyLogger] main.java.TennisGame2 getScore Value of getScore() in TennisGame2: Forty-Thirty 
+2016-11-26 13:19:01.717 INFORMATION [main.java.MyLogger] main.java.TennisGame3 getScore Value of getScore(): Forty 
+2016-11-26 13:19:01.718 INFORMATION [main.java.MyLogger] main.java.TennisGame1 getScore Value of getScore() in TennisGame1: Thirty-Forty 
+2016-11-26 13:19:01.719 INFORMATION [main.java.MyLogger] main.java.TennisGame2 getScore Value of getScore() in TennisGame2: Thirty-Forty 
+2016-11-26 13:19:01.733 INFORMATION [main.java.MyLogger] main.java.TennisGame3 getScore Value of getScore(): Thirty 
+2016-11-26 13:19:01.739 INFORMATION [main.java.MyLogger] main.java.TennisGame1 getScore Value of getScore() in TennisGame1: Win for player1 
+2016-11-26 13:19:01.742 INFORMATION [main.java.MyLogger] main.java.TennisGame2 getScore Value of getScore() in TennisGame2: Win for player1 
+2016-11-26 13:19:01.743 INFORMATION [main.java.MyLogger] main.java.TennisGame3 getScore Value of getScore(): player1 
+2016-11-26 13:19:01.744 INFORMATION [main.java.MyLogger] main.java.TennisGame1 getScore Value of getScore() in TennisGame1: Win for player2 
+2016-11-26 13:19:01.745 INFORMATION [main.java.MyLogger] main.java.TennisGame2 getScore Value of getScore() in TennisGame2: Win for player2 
+2016-11-26 13:19:01.745 INFORMATION [main.java.MyLogger] main.java.TennisGame3 getScore Value of getScore(): player2 
+2016-11-26 13:19:01.746 INFORMATION [main.java.MyLogger] main.java.TennisGame1 getScore Value of getScore() in TennisGame1: Advantage player1 
+2016-11-26 13:19:01.747 INFORMATION [main.java.MyLogger] main.java.TennisGame2 getScore Value of getScore() in TennisGame2: Advantage player1 
+2016-11-26 13:19:01.748 INFORMATION [main.java.MyLogger] main.java.TennisGame3 getScore Value of getScore(): player1 
+2016-11-26 13:19:01.749 INFORMATION [main.java.MyLogger] main.java.TennisGame1 getScore Value of getScore() in TennisGame1: Advantage player2 
+2016-11-26 13:19:01.749 INFORMATION [main.java.MyLogger] main.java.TennisGame2 getScore Value of getScore() in TennisGame2: Advantage player2 
+2016-11-26 13:19:01.750 INFORMATION [main.java.MyLogger] main.java.TennisGame3 getScore Value of getScore(): player2 
+2016-11-26 13:19:01.751 INFORMATION [main.java.MyLogger] main.java.TennisGame1 getScore Value of getScore() in TennisGame1: Advantage player1 
+2016-11-26 13:19:01.751 INFORMATION [main.java.MyLogger] main.java.TennisGame2 getScore Value of getScore() in TennisGame2: Advantage player1 
+2016-11-26 13:19:01.752 INFORMATION [main.java.MyLogger] main.java.TennisGame3 getScore Value of getScore(): player1 
+2016-11-26 13:19:01.753 INFORMATION [main.java.MyLogger] main.java.TennisGame1 getScore Value of getScore() in TennisGame1: Advantage player2 
+2016-11-26 13:19:01.754 INFORMATION [main.java.MyLogger] main.java.TennisGame2 getScore Value of getScore() in TennisGame2: Advantage player2 
+2016-11-26 13:19:01.756 INFORMATION [main.java.MyLogger] main.java.TennisGame3 getScore Value of getScore(): player2 
+2016-11-26 13:19:01.757 INFORMATION [main.java.MyLogger] main.java.TennisGame1 getScore Value of getScore() in TennisGame1: Advantage player1 
+2016-11-26 13:19:01.758 INFORMATION [main.java.MyLogger] main.java.TennisGame2 getScore Value of getScore() in TennisGame2: Advantage player1 
+2016-11-26 13:19:01.759 INFORMATION [main.java.MyLogger] main.java.TennisGame3 getScore Value of getScore(): player1 
+2016-11-26 13:19:01.760 INFORMATION [main.java.MyLogger] main.java.TennisGame1 getScore Value of getScore() in TennisGame1: Advantage player2 
+2016-11-26 13:19:01.760 INFORMATION [main.java.MyLogger] main.java.TennisGame2 getScore Value of getScore() in TennisGame2: Advantage player2 
+2016-11-26 13:19:01.761 INFORMATION [main.java.MyLogger] main.java.TennisGame3 getScore Value of getScore(): player2 
+2016-11-26 13:19:01.762 INFORMATION [main.java.MyLogger] main.java.TennisGame1 getScore Value of getScore() in TennisGame1: Win for player1 
+2016-11-26 13:19:01.762 INFORMATION [main.java.MyLogger] main.java.TennisGame2 getScore Value of getScore() in TennisGame2: Win for player1 
+2016-11-26 13:19:01.763 INFORMATION [main.java.MyLogger] main.java.TennisGame3 getScore Value of getScore(): player1 
+2016-11-26 13:19:01.764 INFORMATION [main.java.MyLogger] main.java.TennisGame1 getScore Value of getScore() in TennisGame1: Win for player2 
+2016-11-26 13:19:01.765 INFORMATION [main.java.MyLogger] main.java.TennisGame2 getScore Value of getScore() in TennisGame2: Win for player2 
+2016-11-26 13:19:01.766 INFORMATION [main.java.MyLogger] main.java.TennisGame3 getScore Value of getScore(): player2 
+2016-11-26 13:19:01.767 INFORMATION [main.java.MyLogger] main.java.TennisGame1 getScore Value of getScore() in TennisGame1: Win for player1 
+2016-11-26 13:19:01.768 INFORMATION [main.java.MyLogger] main.java.TennisGame2 getScore Value of getScore() in TennisGame2: Win for player1 
+2016-11-26 13:19:01.769 INFORMATION [main.java.MyLogger] main.java.TennisGame3 getScore Value of getScore(): player1 
+2016-11-26 13:19:01.770 INFORMATION [main.java.MyLogger] main.java.TennisGame1 getScore Value of getScore() in TennisGame1: Win for player2 
+2016-11-26 13:19:01.772 INFORMATION [main.java.MyLogger] main.java.TennisGame2 getScore Value of getScore() in TennisGame2: Win for player2 
+2016-11-26 13:19:01.774 INFORMATION [main.java.MyLogger] main.java.TennisGame3 getScore Value of getScore(): player2 
