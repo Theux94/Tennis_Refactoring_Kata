@@ -64,6 +64,9 @@ public class TennisGame1 implements TennisGame {
                     case 3:
                         buf.append("Forty");
                         break;
+                    default:
+                        buf.append("Love");
+                    break;
                 }
                score = buf.toString();
             }
