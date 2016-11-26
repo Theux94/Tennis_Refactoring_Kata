@@ -100,7 +100,7 @@ public class TennisGame2 implements TennisGame
         return score;
     }
     
-    public void SetP1Score(int number){
+    public void setP1Score(int number){
         
         for (int i = 0; i < number; i++)
         {
@@ -109,7 +109,7 @@ public class TennisGame2 implements TennisGame
             
     }
     
-    public void SetP2Score(int number){
+    public void setP2Score(int number){
         
         for (int i = 0; i < number; i++)
         {
@@ -127,7 +127,7 @@ public class TennisGame2 implements TennisGame
     }
 
     public void wonPoint(String player) {
-        if (player == "player1")
+        if (player.equals("player1"))
             P1Score();
         else
             P2Score();
